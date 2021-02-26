@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(250, 246, 246);
+}
 .id{
     color: black;
     background-color:rgb(71, 111, 221);
@@ -9,4 +12,7 @@
 .infos {
     color: black;
     background-color:rgb(197, 29, 29);
+}
+ul{
+    list-style: none;
 }
